@@ -7,7 +7,7 @@ In this project, we'll predict the price of the S&P500 stock market index.
 - Build a backtesting engine to more accurately measure accuracy
 - Improve the accuracy of the model
 
-## **Code***
+## **Code**
 
 You can find the code for this project here.
 
