@@ -13,7 +13,7 @@ You can find the code for this project here.
 
 File overview:
 
-- market_prediction.ipynb - a Jupyter notebook that contains all of the code.
+- market-prediction.ipynb - a Jupyter notebook that contains all of the code.
 
 # **Local Setup**
 
